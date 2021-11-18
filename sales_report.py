@@ -29,3 +29,4 @@ for i in range(len(salespeople)): # Iterate through the length of the salesperso
 # We should rename variables to improve readability
 # We should utilize functions to improve efficiency
 # Instead of having two unrelated arrays, we should use a dict so we can store the information as much more useful key value pairs
+# We should make sure to close the file when we are done with it
